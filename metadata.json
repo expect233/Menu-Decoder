@@ -1,0 +1,7 @@
+{
+  "name": "Menu Decoder",
+  "description": "An AI-powered travel companion that translates foreign menus, identifies allergens based on your diet, and recommends dishes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
